@@ -1,0 +1,14 @@
+.first_text {
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px;
+    background-color: rgb(128, 118, 226);
+    width: 30%;
+}
+
+.second_text {
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px;
+    color: rgb(55, 150, 102);
+}
